@@ -43,11 +43,11 @@ public with sharing class ClassesObjectsMethods {
         String myString = 'Hello, Salesforce!';
         
         // Get the length of the String
-        mystring.length();
+        //mystring.length();
         // Get a substring of the String of the first 5 characters
-        mystring.substring(0,5);
+        //mystring.substring(0,5);
         // Convert the String to lower case
-        mystring.toLowerCase();
+        //mystring.toLowerCase();
         
         // Return the list with the string data
         List<String> stringData = new List<String>();
